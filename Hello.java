@@ -1,5 +1,6 @@
 package example3.example3;
 
+
 public class Hello {
 	
 	public static void main(String[] args)
